@@ -16,8 +16,7 @@ This is a meme generator that uses "https://api.imgflip.com/get_memes" to fetch 
 It takes users input text and picks a random meme url from the array of memes to generate an image to go with the users text.
 
 ### Screenshot
-(<img width="571" height="592" alt="Screenshot 2025-09-28 at 3 13 53 PM" src="https://github.com/user-attachments/assets/2d330696-3458-43a4-b76d-21061dca7a9b" />
-)
+<img width="571" height="592" alt="Screenshot 2025-09-28 at 3 13 53 PM" src="https://github.com/user-attachments/assets/2d330696-3458-43a4-b76d-21061dca7a9b" />
 
 ### Links
 - Solution URL: [https://github.com/Akshatasarawgi/Meme-Generator]
@@ -33,5 +32,3 @@ It takes users input text and picks a random meme url from the array of memes to
 
 ### Acknowledgments 
 -Scrimba and Bob Ziroll for making understanding React so much easier for beginners.
-
-
