@@ -2,14 +2,14 @@
 This is a solution to one of the Meme Generation projects that I did along side Bob Ziroll's course on Scrimba.
 This is a part of learning React and understanding the use of Class components and Functional Components to separate the code based on its functionality.
 
-## Tabel of Contents
+## Table of Contents
 
--[Overview] (#overview)
-- [Screenshot] (#screenshot)
-- [Links] (#links)
-- [Built with] (#built-with)
-- [What I learned] (#what-i-learned)
-- [Acknowledgments] (#acknowledgments)
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built With](#built-with)
+- [What I Learned](#what-i-learned)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 This is a meme generator that uses "https://api.imgflip.com/get_memes" to fetch memes from.
